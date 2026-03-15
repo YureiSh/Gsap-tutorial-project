@@ -98,3 +98,6 @@ videoRef.current.onloadedmetadata = () => {
 **Video scrub**
 
 Şimdi video scrub dediğimiz şey aşağı doğru kaydırırken framelerin yavaş yavaş scroll ile ilerlemesi. Bu olayı gerçekleştirirken ffmpeg ile güzel bir çıktı çıkarmalıyız. Key frameler ile ilgili bu durum.
+
+**CSS mask-image**,
+önemli bir css feature
